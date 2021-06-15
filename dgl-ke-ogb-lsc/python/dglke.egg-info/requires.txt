@@ -1,0 +1,5 @@
+numpy
+setuptools
+
+[docs]
+Sphinx

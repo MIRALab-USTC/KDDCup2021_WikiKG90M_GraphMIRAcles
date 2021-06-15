@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: dglke
+Version: 0.1.0.dev0
+Summary: A distributed system to learn embeddings of large graphs
+Home-page: https://github.com/awslabs/dgl-ke
+Author: AWS AI
+License: UNKNOWN
+Project-URL: Source, https://github.com/awslabs/dgl-ke
+Project-URL: Bug Reports, https://github.com/awslabs/dgl-ke/issues
+Project-URL: Documentation, https://aws-dglke.readthedocs.io/en/latest/index.html
+Description: UNKNOWN
+Keywords: machine-learning,knowledge-base,graph-embedding
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.5, <4
+Description-Content-Type: text/markdown
+Provides-Extra: docs

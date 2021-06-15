@@ -1,0 +1,11 @@
+[console_scripts]
+dglke_client = dglke.kvclient:main
+dglke_convert = dglke.convert:main
+dglke_dist_train = dglke.dist_train:main
+dglke_emb_sim = dglke.infer_emb_sim:main
+dglke_eval = dglke.eval:main
+dglke_partition = dglke.partition:main
+dglke_predict = dglke.infer_score:main
+dglke_server = dglke.kvserver:main
+dglke_train = dglke.train:main
+
