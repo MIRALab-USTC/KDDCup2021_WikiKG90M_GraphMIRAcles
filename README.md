@@ -92,8 +92,8 @@ We filter the rules in the KG by their confidence, and use high-confident rules 
 The code is in `inference/Rule-based_Data_Augmentation.ipynb`.  
 
 We keep the rules with confidence greater than 0.95 or 0.99. 
-For the confidence greater than 0.95, we have 2062 rules and about 100 million newly generated triples. 
-For the confidence greater than 0.99, there are 1464 rules and about 200 million newly generated triples. 
+For the confidence greater than 0.95, we have 2062 rules and about 200 million newly generated triples. 
+For the confidence greater than 0.99, there are 1464 rules and about 100 million newly generated triples. 
 We add those triples to the train data, and use the following script to finetune the basic model.
 
 ```
